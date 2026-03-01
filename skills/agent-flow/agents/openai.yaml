@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Flow"
+  short_description: "Use AgentFramework orchestrator and worker/QA tools safely"
+  default_prompt: "Use this skill to run the MAS-GDM workflow, inspect task state, and operate worker/QA loops with correct commands and status expectations."
